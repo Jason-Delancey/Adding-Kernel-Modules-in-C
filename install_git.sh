@@ -8,3 +8,4 @@
 echo "Installing git...."
 sudo apt-get update
 sudo apt-get install git-all
+sudo apt-get install valgrind
